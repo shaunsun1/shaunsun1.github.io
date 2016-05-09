@@ -25,7 +25,7 @@ description: A website connects all the Sunapps!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - STAT 255: "http://shaunsun.site/clt/"
+    - STAT 255: "http://www.shaunsun.site/clt/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://shaunsun.site"
